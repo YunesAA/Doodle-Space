@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple paint application built using Python and Pygame. It allows users to draw on a canvas with customizable brush sizes and colors. The application includes a menu at the top for selecting brush sizes and colors, and it prevents drawing within the menu area.
+This is a simple paint application built using Python and Pygame. It allows users to draw on a canvas with customizable brush sizes and colors. The application includes a menu at the top for selecting brush sizes and colors.
 
 ---
 
